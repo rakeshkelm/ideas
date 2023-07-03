@@ -1,23 +1,23 @@
-# ideas
+# ideas 
 Ideas on the move - from, Rakesh Kukatla 
 
 Independent interest and Militia (Suc-king)
 
-at htps://ideas.planet.militia 
+at htps://ideasonthemove.planet.militia 
 
-Then - Check ideas
+Then - Check Ideas on the move
 
-at https://github.com/rakeshkelm/ideas (actively updated)
+at https://github.com/rakeshkelm/ideasonthemove (actively updated)
 
-then - Check out, ideas.txt
+then - Check out, ideasOnTheMove.txt
 
 For more details, 
 
-Check, Notes
+Check, Earth Backup Notes
 
-at https://github.com/irakeshkelm/notes (actively updated)
+at https://github.com/irakeshkelm/earthbackupnotes
 
-then - Check out, rakeshkelm@gmail.com.txt
+then - Check out, earthbackupnotes.txt
 
 Build and operationalize a planet.
 
