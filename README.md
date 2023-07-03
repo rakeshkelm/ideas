@@ -3,7 +3,7 @@ Ideas on the move - from, Rakesh Kukatla
 
 Independent interest and Militia (Suc-king)
 
-at htps://ideasonthemove.planet.militia 
+at htps://ideasonthemove.media.militia 
 
 Then - Check Ideas on the move
 
