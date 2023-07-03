@@ -1,5 +1,5 @@
 # ideas
-Ideas - 0n the move - from, Rakesh Kukatla 
+Ideas on the move - from, Rakesh Kukatla 
 
 Independent interest and Militia (Suc-king)
 
