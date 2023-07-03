@@ -15,7 +15,7 @@ For more details,
 
 Check, Earth Backup Notes
 
-at https://github.com/irakeshkelm/earthbackupnotes
+at https://github.com/rakeshkelm/earthbackupnotes
 
 then - Check out, earthbackupnotes.txt
 
