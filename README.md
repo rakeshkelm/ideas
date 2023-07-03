@@ -3,7 +3,7 @@ Ideas - from, Rakesh Kukatla
 
 Independent interest and Militia (Suc-king)
 
-At htps://ideas.planet.militia 
+at htps://ideas.planet.militia 
 
 Then - Check ideas
 
